@@ -1,6 +1,11 @@
 {
     "files.associations": {
         "*.ejs": "html",
-        "istream": "cpp"
+        "istream": "cpp",
+        "functional": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp"
     }
 }
